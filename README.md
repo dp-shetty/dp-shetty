@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript developer roles
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Github
-- 📫 you can reach me on email "dps2k811@gmail.com
+- 📫 you can reach me on email dps2k811@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Still finding the fun fact
 

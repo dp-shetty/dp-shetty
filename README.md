@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dp-shetty
-- 👀 I’m interested in Javascript developer roles
-- 🌱 I’m currently learning MERN Stack
+- 👋 Hi, I’m Durga Prasad Shetty
+- 👀 I’m interested in React JS developer roles
+- 🌱 I’m currently working as a React Developer
 - 💞️ I’m looking to collaborate on Github
 - 📫 you can reach me on email dps2k811@gmail.com
 - 😄 Pronouns: He/Him

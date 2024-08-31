@@ -48,7 +48,7 @@ I'm armed with a powerful skill set that transforms ideas into reality! Here’s
 
 Have a question, an idea, or just want to say "Hello"? I'd love to hear from you! Let's connect and make something amazing together! 💫
 
-- **🐦 Twitter**: [@dpsx](https://twitter.com/@dps2k811)
+- **🐦 Twitter**: [@dpsx](https://x.com/dps2k811)
 - **💼 LinkedIn**: [@dps811](https://linkedin.com/in/dps811)
 - **🌐 Portfolio**: [Visit My Portfolio](https://dpshetty.netlify.app)
 - **📧 Email**: [dps@gmail](mailto:dps2k811@gmail.com)

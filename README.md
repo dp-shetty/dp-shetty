@@ -48,10 +48,10 @@ I'm armed with a powerful skill set that transforms ideas into reality! Here’s
 
 Have a question, an idea, or just want to say "Hello"? I'd love to hear from you! Let's connect and make something amazing together! 💫
 
-- **🐦 Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **💼 LinkedIn**: [Your Name](https://linkedin.com/in/dps811)
+- **🐦 Twitter**: [@dpsx](https://twitter.com/@dps2k811)
+- **💼 LinkedIn**: [@dps811](https://linkedin.com/in/dps811)
 - **🌐 Portfolio**: [Visit My Portfolio](https://dpshetty.netlify.app)
-- **📧 Email**: [youremail@example.com](mailto:dps2k811@gmail.com)
+- **📧 Email**: [dps@gmail](mailto:dps2k811@gmail.com)
 - **📱 Phone**: +916362405153
 
 ## 🛡️ **Join the League of Coders** 🛡️

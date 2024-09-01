@@ -1,4 +1,4 @@
-# 🌟 **Welcome to My Marvelous GitHub Config Repository!** 🌟
+# 🌟 **Welcome to My Marvelous GitHub Universe!** 🌟
 
 ## ✨ **Unleashing the Power of Development Magic** ✨
 

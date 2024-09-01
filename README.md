@@ -53,6 +53,7 @@ Have a question, an idea, or just want to say "Hello"? I'd love to hear from you
 - **🌐 Portfolio**: [Visit My Portfolio](https://dpshetty.netlify.app)
 - **📧 Email**: [dps@gmail](mailto:dps2k811@gmail.com)
 - **📱 Phone**: +916362405153
+- **📚 GitHub Gists**: [Explore My Gists](https://tinyurl.com/yc8d7bmf)
 
 ## 🛡️ **Join the League of Coders** 🛡️
 
@@ -62,9 +63,7 @@ Feel free to explore, fork, and star this repository! ⭐ If you have any sugges
 
 🌟 **Remember:** Code is more than just lines of text—it's an art form, a journey, a way of life! Welcome to my world—let's make it extraordinary together! 🚀
 
-
 <!---
 🌟 dp-shetty/dp-shetty is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. 🎉
 🚀 You can click the Preview link to take a peek at the magic happening here! 🪄
 --->
-

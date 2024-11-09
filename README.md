@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a passionate **React Web Developer** with over **2 years of experience**, crafting modern, user-centric web applications that leave a lasting impact. My expertise spans across a diverse range of web technologies, including **HTML5**, **CSS3**, **JavaScript (ES6+),** and powerful frameworks like **Tailwind CSS**, **Material-UI (MUI)**, and **SASS**. 
+I am a passionate **React Web Developer** crafting modern, user-centric web applications that leave a lasting impact. My expertise spans across a diverse range of web technologies, including **HTML5**, **CSS3**, **JavaScript (ES6+),** and powerful frameworks like **Tailwind CSS**, **Material-UI (MUI)**, and **SASS**. 
 
 Driven by a keen interest in front-end architecture, I excel in building responsive, dynamic, and scalable applications with **React.js** and **Redux** for seamless state management. My backend proficiency includes **Node.js**, **Express.js**, and **MongoDB**, enabling me to deliver full-stack solutions that bridge the gap between front-end and back-end systems.
 

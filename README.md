@@ -6,7 +6,7 @@ I'm a **Software Engineer** building reliable, user-centric web applications acr
 ## 🤝 Seeking Collaboration:
 
 - [**GitHub**](https://github.com/dp-shetty): Let's build amazing projects together! Connect with me for code contributions and innovative solutions. 🛠️
-- [**LinkedIn**](https://www.linkedin.com/in/dps811/): I'm eager to network and explore new opportunities. Let's connect and collaborate! 🌟
+- [**LinkedIn**](https://www.linkedin.com/in/durgaprasadtd/): I'm eager to network and explore new opportunities. Let's connect and collaborate! 🌟
 
 ---
 
